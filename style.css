@@ -456,7 +456,7 @@ header{
   max-width: 800px;
   border-radius: 15px 15px 15px 15px;
   margin: auto;
-  margin-top: 124px;
+  margin-top: 117px;
 }
 
 .modal-content{
@@ -466,7 +466,9 @@ header{
 .modal-img{
   width: 50%;
   border-radius: 15px 0 0 15px;
+  object-fit: cover;
 }
+
 
 .modal-form-container{
   padding: 45px 42px 10px 42px;
